@@ -200,5 +200,5 @@
 
 
 ***
-[comment]: <> (<p align="center"><a href="https://github.com/VasiliyMatlab"><img src="https://github.com/VasiliyMatlab.png" width="100" alt="VasiliyMatlab"/></a></p>)
+<p align="center"><a href="https://github.com/VasiliyMatlab"><img src="https://github.com/VasiliyMatlab.png" width="100" alt="VasiliyMatlab"/></a></p>
 <p align="center"><a href="https://github.com/VasiliyMatlab">VasiliyMatlab</a></p>
